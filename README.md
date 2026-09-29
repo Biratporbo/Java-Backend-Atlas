@@ -16,7 +16,3 @@ A complete Java Backend learning hub — roadmaps, resources, documentation, pro
   - [References of the roadmap](#references-of-the-roadmap)
   - [Want to contribute to this repository?](#contribution)
 
-# Roadmap
-## 1. Java
-<details open>
-<summary> <b>Learn Java</b> <summary>
