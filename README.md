@@ -20,3 +20,9 @@ A complete Java Backend learning hub — roadmaps, resources, documentation, pro
 ## 1. Java
 <details open>
 <summary> <b>Learn Java</b> <summary>
+  <ol>
+    <li>
+      <a> Basics </a>
+      <ul>
+        <li><a> Classes, Variables, Loops etc </a></li>
+        <li><a> OOPs </a></li>
