@@ -30,6 +30,16 @@ A complete Java Backend learning hub — roadmaps, resources, documentation, pro
         <li><a> Generics </a></li>
       </ul>
     </li>
-
+    <li>
+      <a> Advanced </a>
+      <ul>
+        <li><a> Design Patterns </a></li>
+        <li><a> JVM </a></li>
+        <li><a> Threads </a></li>
+        <li><a> Servlets and JSP's </a></li>
+        <li><a> Concurrency </a></li>
+        <li><a> Garbage Collection </a></li>
+      </ul>
+    </li>
 
 </details>
