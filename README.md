@@ -30,3 +30,18 @@ A complete Java Backend learning hub — roadmaps, resources, documentation, pro
   </ol>
 </details>
 
+## 2. Spring Framework
+<details open>
+<summary> <b>Learn Spring Framework</b> </summary>
+  <ol>
+    <li>
+      <a> Core </a>
+      <ul>
+        <li><a> Bean Life Cycle </a></li>
+        <li><a> Dependency Injection </a></li>
+        <li><a> Inversion of Control </a></li>
+        <li><a> Bean Factory & Application Context </a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
