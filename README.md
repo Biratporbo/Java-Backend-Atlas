@@ -26,4 +26,10 @@ A complete Java Backend learning hub — roadmaps, resources, documentation, pro
       <ul>
         <li><a> Classes, Variables, Loops etc </a></li>
         <li><a> OOPs </a></li>
+        <li><a> Collections </a></li>
+        <li><a> Generics </a></li>
+      </ul>
+    </li>
+
+
 </details>
