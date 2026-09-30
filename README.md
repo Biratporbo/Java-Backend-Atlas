@@ -1,7 +1,3 @@
-# Java-Backend-Atlas
-
-A complete Java Backend learning hub — roadmaps, resources, documentation, projects, cheatsheets, interview preparation, system design, and useful developer tools.
-
 # Roadmap
 ## 1. Java
 <details open>
@@ -42,3 +38,35 @@ A complete Java Backend learning hub — roadmaps, resources, documentation, pro
   </ol>
 </details>
 
+## 2. Spring Framework
+<details open>
+<summary> <b>Learn Spring Framework</b> </summary>
+  <ol>
+    <li>
+      <a> Core </a>
+      <ul>
+        <li><a> Bean Life Cycle </a></li>
+        <li><a> Dependency Injection </a></li>
+        <li><a> Inversion of Control </a></li>
+        <li><a> Bean Factory & Application Context </a></li>
+      </ul>
+    </li>
+    <li>
+      <a> Web </a>
+      <ul>
+        <li><a> Annotations </a></li>
+        <li><a> MVC Structure </a></li>
+        <li><a> Configurations </a></li>
+        <li><a> Integrating different Libraries/Frameworks </a></li>
+        <li><a> Profiles </a></li>
+      </ul>
+    </li>
+    <li>
+      <a> AOP </a>
+      <ul>
+        <li><a> How AOP Works </a></li>
+        <li><a> Creating PointCut, Join Point, Aspect etc </a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
