@@ -19,7 +19,7 @@ A complete Java Backend learning hub — roadmaps, resources, documentation, pro
 # Roadmap
 ## 1. Java
 <details open>
-<summary> <b>Learn Java</b> <summary>
+<summary> <b>Learn Java</b> </summary>
   <ol>
     <li>
       <a> Basics </a>
@@ -36,7 +36,7 @@ A complete Java Backend learning hub — roadmaps, resources, documentation, pro
         <li><a> Design Patterns </a></li>
         <li><a> JVM </a></li>
         <li><a> Threads </a></li>
-        <li><a> Servlets and JSP's </a></li>
+        <li><a> Servlets and JSP’s </a></li>
         <li><a> Concurrency </a></li>
         <li><a> Garbage Collection </a></li>
       </ul>
