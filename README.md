@@ -2,20 +2,6 @@
 
 A complete Java Backend learning hub — roadmaps, resources, documentation, projects, cheatsheets, interview preparation, system design, and useful developer tools.
 
-
-#### In this repository, you will find :
-
-  - [A roadmap for learning Backend with Java](#roadmap)
-  - [Resources for learning Java-Backend](#resources-for-learning-java-backend)
-     - [Docs & Articles](https://github.com/Biratporbo/Java-Backend-Atlas#docs--articles)
-     - [YouTube Channels](https://github.com/Biratporbo/Java-Backend-Atlas#youtube-channels)
-     - [Books](https://github.com/Biratporbo/Java-Backend-Atlas#books)
-     - [Projects](https://github.com/Biratporbo/Java-Backend-Atlas#projects)
-     - [Helpful Links](https://github.com/Biratporbo/Java-Backend-Atlas#helpful-links)
-     - [Interview Questions](https://github.com/Biratporbo/Java-Backend-Atlas#interview-questions)
-  - [References of the roadmap](#references-of-the-roadmap)
-  - [Want to contribute to this repository?](#contribution)
-
 # Roadmap
 ## 1. Java
 <details open>
@@ -56,16 +42,3 @@ A complete Java Backend learning hub — roadmaps, resources, documentation, pro
   </ol>
 </details>
 
-## 2. Spring Framework
-<details open>
-<summary> <b>Learn Spring Framework</b> </summary>
-  <ol>
-    <li>
-      <a> Core </a>
-      <ul>
-        <li><a> Bean Life Cycle </a></li>
-        <li><a> Dependency Injection </a></li>
-        <li><a> Inversion of Control </a></li>
-        <li><a> Bean Factory & Application Context </a></li>
-      </ul>
-    </li>
