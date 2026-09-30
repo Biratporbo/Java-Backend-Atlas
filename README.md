@@ -47,4 +47,11 @@ A complete Java Backend learning hub — roadmaps, resources, documentation, pro
       <a> Testing </a>
       <ul>
         <li><a> Unit Testing </a></li>
+        <li><a> Integration Testing </a></li>
+        <li><a> JUnit </a></li>
+        <li><a> Mockito </a></li>
+      </ul>
+    </li>
+    <li><a> Logging (Log4j, Log4j2, Logback) </a></li>
+  </ol>
 </details>
